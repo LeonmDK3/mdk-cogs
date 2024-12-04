@@ -40,7 +40,7 @@ msgid ""
 msgstr ""
 
 #: tickettool\settings.py:97 tickettool\tickettool.py:339
-msgid "Create ticket"
+msgid "Creaza un Ticket"
 msgstr ""
 
 #: tickettool\settings.py:116
@@ -275,9 +275,9 @@ msgstr ""
 
 #: tickettool\tickettool.py:74
 msgid ""
-"To get help on this server or to make an order for example, you can create a ticket.\n"
-"Just use the command `{prefix}ticket create` or click on the button below.\n"
-"You can then use the `{prefix}ticket` subcommands to manage your ticket."
+"Pentru orice problemă legată de server, vă rugăm să creați un ticket.\n"
+"După crearea ticketului, vă rugăm să așteptați. Un membru al echipei va răspunde în cel mai scurt timp.\n"
+"Apăsați butonul de mai jos pentru a crea un ticket."
 msgstr ""
 
 #: tickettool\tickettool.py:403
